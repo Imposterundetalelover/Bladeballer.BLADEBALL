@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🔫 Blade Ball 🔫 || DX Hub",
+   Name = " Blade Ball || DX Hub",
    LoadingTitle = "DX Hub",
    LoadingSubtitle = "by xeno",
    ConfigurationSaving = {
